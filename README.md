@@ -3,4 +3,4 @@
   1. Sushil Maurya
   2. Nabodita Chaudhary
   3. Nirav Gujrati
-  4. Sarthak
+  4. Sarthak Jaiswal
